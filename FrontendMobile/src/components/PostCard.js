@@ -23,5 +23,6 @@ const PostCard = ({ post, comments }) => {
     </Card>
   );
 };
+//comentairo apra commit 
 
 export default PostCard;
